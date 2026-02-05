@@ -19,7 +19,7 @@
 
 ## What I'm Doing
 
-- Building OSS-first package workflows for community PRs.
+- Building products in private, then sharing what is useful openly.
 - Releasing via manual tags and consuming dependencies from git refs.
 - Iterating on AI-native product UX and developer tooling.
 
