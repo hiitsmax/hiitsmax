@@ -11,19 +11,19 @@
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-## Current Projects
+## 🚀 Current Projects
 
-- [chambr-engine-core](https://github.com/hiitsmax/chambr-engine-core) - public source of truth for the core engine package.
-- [chambr-tui](https://github.com/hiitsmax/chambr-tui) - public source of truth for the terminal interface package.
-- [chambr](https://github.com/hiitsmax/chambr) - product application monorepo.
+- 🧠 [chambr-engine-core](https://github.com/hiitsmax/chambr-engine-core) - public source of truth for the core engine package.
+- 🖥️ [chambr-tui](https://github.com/hiitsmax/chambr-tui) - public source of truth for the terminal interface package.
+- 🏠 [chambr](https://github.com/hiitsmax/chambr) - product application monorepo.
 
-## What I'm Doing
+## 🧭 What I'm Doing
 
-- Building products in private, then sharing what is useful openly.
-- Releasing via manual tags and consuming dependencies from git refs.
-- Iterating on AI-native product UX and developer tooling.
+- 🔒 Building products in private, then sharing what is useful openly.
+- 🏷️ Releasing via manual tags and consuming dependencies from git refs.
+- ⚙️ Iterating on AI-native product UX and developer tooling.
 
-## Connect
+## 🤝 Connect
 
 - GitHub: [@hiitsmax](https://github.com/hiitsmax)
 
