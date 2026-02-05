@@ -1,21 +1,24 @@
 # Hi, I'm MX
 
-Turin.
+`Turin` | `AI product builder` | `Building Chambr`
 
-Building Chambr.
+> In full build mode. Shipping AI-first products, core runtimes, and terminal interfaces.
 
-## Projects
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-- [chambr](https://github.com/hiitsmax/chambr): main product repo.
-- [chambr-engine-core](https://github.com/hiitsmax/chambr-engine-core): public source of truth for the core package.
-- [chambr-tui](https://github.com/hiitsmax/chambr-tui): public source of truth for the TUI package.
+## 🚀 Current Projects
 
-## Right Now
+- 🧠 [chambr-engine-core](https://github.com/hiitsmax/chambr-engine-core) - public source of truth for the core engine package.
+- 🖥️ [chambr-tui](https://github.com/hiitsmax/chambr-tui) - public source of truth for the terminal interface package.
+- 🏠 [chambr](https://github.com/hiitsmax/chambr) - product application monorepo.
 
-- Building in private.
-- Sharing what is useful in public repos.
-- Releasing with manual tags and consuming dependencies via git refs.
-
-## Contact
+## 🤝 Connect
 
 - GitHub: [@hiitsmax](https://github.com/hiitsmax)
+
+_Last update: 2026-02-05._
