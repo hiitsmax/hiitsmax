@@ -15,7 +15,6 @@
 
 - 🧠 [chambr-engine-core](https://github.com/hiitsmax/chambr-engine-core) - public source of truth for the core engine package.
 - 🖥️ [chambr-tui](https://github.com/hiitsmax/chambr-tui) - public source of truth for the terminal interface package.
-- 🏠 chambr - product application monorepo.
 
 ## 🤝 Connect
 
