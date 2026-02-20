@@ -15,9 +15,10 @@
 
 - 🧠 [chambr-core](https://github.com/hiitsmax/chambr-core) - public source of truth for the core engine package.
 - 🖥️ [chambr-tui](https://github.com/hiitsmax/chambr-tui) - public source of truth for the terminal interface package.
+- 📰 [x-article-to-latex](https://github.com/hiitsmax/x-article-to-latex) - vibecoded tool to turn X/Twitter articles into magazine-style LaTeX PDFs.
 
 ## 🤝 Connect
 
 - GitHub: [@hiitsmax](https://github.com/hiitsmax)
 
-_Last update: 2026-02-05._
+_Last update: 2026-02-20._
