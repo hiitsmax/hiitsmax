@@ -1,6 +1,6 @@
 # Hi, I'm MX
 
-`Turin` | `AI product builder` | `Building Chambr`
+`Turin` | `AI product builder`
 
 > In full build mode. Shipping AI-first products, core runtimes, and terminal interfaces.
 
@@ -13,10 +13,13 @@
 
 ## 🚀 Current Projects
 
-- 🧠 [chambr-core](https://github.com/hiitsmax/chambr-core) - public source of truth for the core engine package.
-- 🖥️ [chambr-tui](https://github.com/hiitsmax/chambr-tui) - public source of truth for the terminal interface package.
 - 📰 [xmag](https://github.com/hiitsmax/xmag) - vibecoded tool to turn X/Twitter articles into magazine-style LaTeX PDFs.
 - 🌱 [xs2n](https://github.com/hiitsmax/xs2n) - WIP CLI for onboarding X source profiles for a future free-first timeline summarization pipeline.
+
+## ⏸️ On-hold
+
+- 🧠 [chambr-core](https://github.com/hiitsmax/chambr-core) - public source of truth for the core engine package.
+- 🖥️ [chambr-tui](https://github.com/hiitsmax/chambr-tui) - public source of truth for the terminal interface package.
 
 ## 🤝 Connect
 
