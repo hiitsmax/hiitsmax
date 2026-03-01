@@ -16,9 +16,10 @@
 - 🧠 [chambr-core](https://github.com/hiitsmax/chambr-core) - public source of truth for the core engine package.
 - 🖥️ [chambr-tui](https://github.com/hiitsmax/chambr-tui) - public source of truth for the terminal interface package.
 - 📰 [xmag](https://github.com/hiitsmax/xmag) - vibecoded tool to turn X/Twitter articles into magazine-style LaTeX PDFs.
+- 🌱 [xs2n](https://github.com/hiitsmax/xs2n) - WIP CLI for onboarding X source profiles for a future free-first timeline summarization pipeline.
 
 ## 🤝 Connect
 
 - GitHub: [@hiitsmax](https://github.com/hiitsmax)
 
-_Last update: 2026-02-20._
+_Last update: 2026-03-01._
