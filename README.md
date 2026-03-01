@@ -14,7 +14,7 @@
 ## 🚀 Current Projects
 
 - 📰 [xmag](https://github.com/hiitsmax/xmag) - vibecoded tool to turn X/Twitter articles into magazine-style LaTeX PDFs.
-- 🌱 [xs2n](https://github.com/hiitsmax/xs2n) - WIP CLI for onboarding X source profiles for a future free-first timeline summarization pipeline.
+- 🌱 [xn2s](https://github.com/hiitsmax/xn2s) - agentic pipeline to get signal from noise.
 
 ## ⏸️ On-hold
 
